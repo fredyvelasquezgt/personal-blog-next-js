@@ -4,10 +4,9 @@ function MainNavigation() {
   return (
     <header>
       <Link href="/">
-          <a>
+        <a>
           <Logo />
-
-          </a>
+        </a>
       </Link>
       <nav>
         <ul>

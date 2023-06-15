@@ -10,6 +10,28 @@ const DUMMY_POSTS = [
     excerpt: "learn easy nextJS",
     date: '2023-06-15',
   },
+  {
+    slug: "getting-started-with-next-js2",
+    title: "Getting Started with Next JS",
+    image: "getting-started-nextjs.png",
+    excerpt: "learn easy nextJS",
+    date: '2023-06-15',
+  },
+  {
+    slug: "getting-started-with-next-js3",
+    title: "Getting Started with Next JS",
+    image: "getting-started-nextjs.png",
+    excerpt: "learn easy nextJS",
+    date: '2023-06-15',
+  },
+  {
+    slug: "getting-started-with-next-js4",
+    title: "Getting Started with Next JS",
+    image: "getting-started-nextjs.png",
+    excerpt: "learn easy nextJS",
+    date: '2023-06-15',
+  }
+
 ];
 
 function HomePage() {

@@ -1,9 +1,13 @@
 import Link from "next/link";
 
+import classes from './main-navigation.module.css'
+import Logo from './logo'
+
+
 function MainNavigation() {
   return (
-    <header>
-      <Link href="/">
+    <header className={classes.header} >
+      <Link href="/" legacyBehavior>
         <a>
           <Logo />
         </a>

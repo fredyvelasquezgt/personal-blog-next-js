@@ -11,13 +11,13 @@ function PostItem(props) {
         year: 'numeric'
     });
 
-    const imagePath = `/images/posts`
+    const imagePath = `/images/posts/${slug}/${image}`
 
     return <li className={classes.post} >
         <Link>
             <a>
                 <div className={classes.image}>
-                    <Image src="" alt={title} width={300} height={200} />
+                    <Image src={imagePath} alt={title} width={300} height={200} />
                 </div>
                 <div className={classes.content} >
                     <h3>{title}</h3>

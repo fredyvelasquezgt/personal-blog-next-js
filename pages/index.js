@@ -5,12 +5,12 @@ import { getFeaturedPOsts } from "../lib/posts-util";
 
 
 
-function HomePage() {
+function HomePage(props) {
   
   return (
     <Fragment>
       <Hero />
-      <FeaturedPosts posts={DUMMY_POSTS} />
+      <FeaturedPosts posts={props.posts} />
     </Fragment>
   );
 }

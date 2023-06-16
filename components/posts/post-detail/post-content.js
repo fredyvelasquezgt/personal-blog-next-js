@@ -12,7 +12,7 @@ const DUMMY_POST = {
 
   function PostContent() {
 
-    const imagePath = `/images/posts/${DUMMY_POST.slug}/${DUMMY_POST.image}`
+    const imagePath = `public/images/posts/${DUMMY_POST.slug}/${DUMMY_POST.image}`
 
     return <article className={classes.content}>
         <PostHeader title={DUMMY_POST.title} image={imagePath} />

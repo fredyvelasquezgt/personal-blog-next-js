@@ -1,8 +1,8 @@
 ---
 title: 'Getting started with NextJS'
-date: '2023-06-16'
+date: '2023-06-11'
 image: getting-started-nextjs.png
-excerpt: learning next JS
+excerpt: learning next JSS
 isFeatured: true
 ---
 

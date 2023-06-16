@@ -12,6 +12,7 @@ function PostItem(props) {
   });
 
   const imagePath = `/images/posts/${slug}/${image}`;
+  console.log(imagePath)
   const linkPath = `/posts/${slug}`;
 
   return (
@@ -25,7 +26,7 @@ function PostItem(props) {
               width={400}
               height={300}
               layout="responsive"
-              legacyBehavior
+              legacybehavior
             />
           </div>
           <div className={classes.content}>

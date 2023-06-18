@@ -11,6 +11,7 @@ function PostItem(props) {
     year: "numeric",
   });
 
+  // for the image be sure to have the right name
   const imagePath = `/images/posts/${slug}/${image}`;
   console.log(imagePath)
   const linkPath = `/posts/${slug}`;

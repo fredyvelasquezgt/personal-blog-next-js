@@ -18,10 +18,12 @@ function handler(req, res) {
         email,
         name,
         message
-    }
-    console.log(newMessage);
+    };
 
-    res.status(201).json({message: 'Succesfully stored message'})
+    console.log(newMessage);
+    res
+        .status(201)
+        .json({message: 'Succesfully stored message', message: newMessage})
   }
 }
 

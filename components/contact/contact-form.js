@@ -2,15 +2,25 @@ import { useState } from "react";
 import classes from "./contact-form.module.css";
 
 function ConctactForm() {
-  const [entederEmail, setEnteredEmail] = useState("");
+  const [enteredEmail, setEnteredEmail] = useState("");
   const [enteredName, setEnteredName] = useState("");
-  const [enteredMesssage, setEnteredMessage] = useState("");
+  const [enteredMessage, setEnteredMessage] = useState("");
 
   function sendMessageHanlder(event) {
     event.preventDefault();
 
+    //add client side validation
+
     fetch("/api/contact", {
       method: "POST",
+      body: JSON.stringify({
+          email: enteredEmail,
+          name: enteredName,
+          message: setEnteredMessage
+      }),
+      headers: {
+          'Content-Type' : 'application/json',
+      },
     });
   }
 
@@ -38,7 +48,7 @@ function ConctactForm() {
         </div>
         <div className={classes.control}>
           <label htmlFor="message">Your message</label>
-          <textarea id="message" rows="5" value={enteredMesssage}
+          <textarea id="message" rows="5" required value={enteredMessage}
               onChange={(event) => setEnteredMessage(event.target.value)} ></textarea>
         </div>
         <div className={classes.actions}>

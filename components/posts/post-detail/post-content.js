@@ -33,10 +33,17 @@ import {atomDark} from 'react-syntax-highlighter/dist/cjs/styles/prism'
       },
 
       code(code) {
-        const {language, value} = code;
-        return <SyntaxHighlighter language children={} style={atomDark} />
-      }
-    };
+        const _array = code.className.split("-");
+        const _language = _array[1];
+   
+        return (
+      <SyntaxHighlighter language={_language} style={atomDark}>
+            {code.children[0]}
+          </SyntaxHighlighter>
+      
+
+        )
+              }};
    
     return (
       <article className={classes.content}>

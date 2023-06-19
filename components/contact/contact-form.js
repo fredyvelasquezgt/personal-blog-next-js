@@ -16,7 +16,7 @@ function ConctactForm() {
       body: JSON.stringify({
           email: enteredEmail,
           name: enteredName,
-          message: setEnteredMessage
+          message: enteredMessage
       }),
       headers: {
           'Content-Type' : 'application/json',

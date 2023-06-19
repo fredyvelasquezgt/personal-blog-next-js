@@ -1,44 +1,52 @@
-import classes from './contact-form.module.css'
+import { useState } from "react";
+import classes from "./contact-form.module.css";
 
 function ConctactForm() {
+  const [entederEmail, setEnteredEmail] = useState("");
+  const [enteredName, setEnteredName] = useState("");
+  const [enteredMesssage, setEnteredMessage] = useState("");
 
-    function sendMessageHanlder(event) {
-        event.preventDefault();
+  function sendMessageHanlder(event) {
+    event.preventDefault();
 
-        fetch('/api/contact', {
-            method: 'POST',
-            
-        });
+    fetch("/api/contact", {
+      method: "POST",
+    });
+  }
 
-    }
+  return (
+    <section className={classes.contact}>
+      <h1>How can I help you?</h1>
+      <form className={classes.form} onSubmit={sendMessageHanlder}>
+        <div className={classes.controls}>
+          <div className={classes.control}>
+            <label htmlFor="email">Your email</label>
+            <input
+              type="email"
+              id="email"
+              required
+              value={enteredEmail}
+              onChange={(event) => setEnteredEmail(event.target.value)}
+            />
+          </div>
 
-    return <section className={classes.contact} >
-        <h1>How can I help you?</h1>
-        <form className={classes.form} onSubmit={sendMessageHanlder} >
-            <div className={classes.controls}>
-                <div className={classes.control} >
-                    <label htmlFor='email'>
-                        Your email
-                    </label>
-                    <input type='email' id='email' required />
-                </div>
-
-                <div className={classes.control} >
-                    <label htmlFor='name'>
-                        Your name
-                    </label>
-                    <input type='text' id='name' required />
-                </div>
-            </div>
-            <div className={classes.control}>
-                <label htmlFor='message'>You message</label>
-                <textarea id="message" rows='5'></textarea>
-            </div>
-            <div className={classes.actions}>
-                <button>Send Message</button>
-            </div>
-        </form>
+          <div className={classes.control}>
+            <label htmlFor="name">Your name</label>
+            <input type="text" id="name" required value={enteredName}
+              onChange={(event) => setEnteredName(event.target.value)} />
+          </div>
+        </div>
+        <div className={classes.control}>
+          <label htmlFor="message">Your message</label>
+          <textarea id="message" rows="5" value={enteredMesssage}
+              onChange={(event) => setEnteredMessage(event.target.value)} ></textarea>
+        </div>
+        <div className={classes.actions}>
+          <button>Send Message</button>
+        </div>
+      </form>
     </section>
+  );
 }
 
 export default ConctactForm;

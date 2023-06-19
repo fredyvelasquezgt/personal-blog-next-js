@@ -13,6 +13,15 @@ function handler(req, res) {
         res.status(422).json({message: 'invalid input'})
         return;
     }
+    //store it in a db
+    const newMessage = {
+        email,
+        name,
+        message
+    }
+    console.log(newMessage);
+
+    res.status(201).json({message: 'Succesfully stored message'})
   }
 }
 

@@ -1,9 +1,20 @@
 import classes from './contact-form.module.css'
 
 function ConctactForm() {
+
+    function sendMessageHanlder(event) {
+        event.preventDefault();
+
+        fetch('/api/contact', {
+            method: 'POST',
+            
+        });
+
+    }
+
     return <section className={classes.contact} >
         <h1>How can I help you?</h1>
-        <form className={classes.form}>
+        <form className={classes.form} onSubmit={sendMessageHanlder} >
             <div className={classes.controls}>
                 <div className={classes.control} >
                     <label htmlFor='email'>

@@ -22,7 +22,7 @@ function handler(req, res) {
 
     res
         .status(201)
-        .json({message: 'Succesfully stored message', message: newMessage})
+        .json({message: 'Succesfully ', message: newMessage})
   }
 }
 

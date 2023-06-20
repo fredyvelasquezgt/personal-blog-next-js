@@ -2,29 +2,38 @@ import { useState } from "react";
 import classes from "./contact-form.module.css";
 import Notification from '../ui/notification';
 
+async function sendContactData(contactDetails) {
+  const response = await fetch("/api/contact", {
+    method: "POST",
+    body: JSON.stringify(contactDetails),
+    headers: {
+      "Content-Type": "application/json",
+    },
+  });
+
+  const data = await response.json();
+
+  if(!response.ok) {
+    throw new Error(data.message || 'Something went wrong')
+  }
+}
+
+
 function ConctactForm() {
   const [enteredEmail, setEnteredEmail] = useState("");
   const [enteredName, setEnteredName] = useState("");
   const [enteredMessage, setEnteredMessage] = useState("");
   const [requestStatus, setRequestStatus] = useState("")
 
-  function sendMessageHanlder(event) {
+  async function sendMessageHanlder(event) {
     event.preventDefault();
 
-    //add client side validation
-    //sent to the backend
+    await sendContactData({
+      email: enteredEmail,
+      name: enteredName,
+      message: setEnteredMessage
+    })
 
-    fetch("/api/contact", {
-      method: "POST",
-      body: JSON.stringify({
-        email: enteredEmail,
-        name: enteredName,
-        message: enteredMessage,
-      }),
-      headers: {
-        "Content-Type": "application/json",
-      },
-    });
   }
 
   return (

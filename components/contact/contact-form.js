@@ -1,4 +1,4 @@
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import classes from "./contact-form.module.css";
 import Notification from '../ui/notification';
 
@@ -24,6 +24,16 @@ function ConctactForm() {
   const [enteredName, setEnteredName] = useState("");
   const [enteredMessage, setEnteredMessage] = useState("");
   const [requestStatus, setRequestStatus] = useState("")
+  const [requestError, setRequestError] = useState()
+
+  useEffect(() => {
+    if(requestStatus === 'pending' || requestStatus === 'error') {
+      setTimeout(() => {
+        setRequestStatus(null);
+        setRequestError(null)
+      }, 3000)
+    }
+  }, [requestStatus])
 
   async function sendMessageHanlder(event) {
     event.preventDefault();
@@ -34,15 +44,42 @@ function ConctactForm() {
       await sendContactData({
         email: enteredEmail,
         name: enteredName,
-        message: setEnteredMessage
+        message: enteredMessage
       })    
       setRequestStatus('success')
 
     } catch (error) {
+      setRequestError(error.message)
       setRequestStatus('error')
 
     }
 
+  }
+
+  let notification;
+
+  if(requestStatus==='pending') {
+    notification = {
+      status: 'pending',
+      title: 'sending message',
+      message: 'Your message is on its way!'
+    }
+  }
+
+  if(requestStatus === 'success') {
+    notification = {
+      status: 'success',
+      title: 'success!',
+      message: 'Message sent successfully'
+    }
+  }
+
+  if(requestStatus === 'error') {
+    notification = {
+      status: 'error',
+      title: 'Error',
+      message: 'nope'
+    }
   }
 
   return (
@@ -86,6 +123,7 @@ function ConctactForm() {
           <button>Send Message</button>
         </div>
       </form>
+      {notification && <Notification status={notification.status} title={notification.title} message={notification.message} />}
     </section>
   );
 }

@@ -28,11 +28,20 @@ function ConctactForm() {
   async function sendMessageHanlder(event) {
     event.preventDefault();
 
-    await sendContactData({
-      email: enteredEmail,
-      name: enteredName,
-      message: setEnteredMessage
-    })
+    setRequestStatus('pending')
+
+    try {
+      await sendContactData({
+        email: enteredEmail,
+        name: enteredName,
+        message: setEnteredMessage
+      })    
+      setRequestStatus('success')
+
+    } catch (error) {
+      setRequestStatus('error')
+
+    }
 
   }
 

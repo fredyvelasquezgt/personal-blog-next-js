@@ -20,7 +20,6 @@ function handler(req, res) {
         message
     };
 
-    console.log(newMessage);
     res
         .status(201)
         .json({message: 'Succesfully stored message', message: newMessage})

@@ -15,12 +15,12 @@ function ConctactForm() {
     fetch("/api/contact", {
       method: "POST",
       body: JSON.stringify({
-          email: enteredEmail,
-          name: enteredName,
-          message: enteredMessage
+        email: enteredEmail,
+        name: enteredName,
+        message: enteredMessage,
       }),
       headers: {
-          'Content-Type' : 'application/json',
+        "Content-Type": "application/json",
       },
     });
   }
@@ -43,14 +43,24 @@ function ConctactForm() {
 
           <div className={classes.control}>
             <label htmlFor="name">Your name</label>
-            <input type="text" id="name" required value={enteredName}
-              onChange={(event) => setEnteredName(event.target.value)} />
+            <input
+              type="text"
+              id="name"
+              required
+              value={enteredName}
+              onChange={(event) => setEnteredName(event.target.value)}
+            />
           </div>
         </div>
         <div className={classes.control}>
           <label htmlFor="message">Your message</label>
-          <textarea id="message" rows="5" required value={enteredMessage}
-              onChange={(event) => setEnteredMessage(event.target.value)} ></textarea>
+          <textarea
+            id="message"
+            rows="5"
+            required
+            value={enteredMessage}
+            onChange={(event) => setEnteredMessage(event.target.value)}
+          ></textarea>
         </div>
         <div className={classes.actions}>
           <button>Send Message</button>

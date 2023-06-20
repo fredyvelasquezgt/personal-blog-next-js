@@ -1,3 +1,5 @@
+import {MongoClient} from 'mongodb'
+
 function handler(req, res) {
   if (req.method === "POST") {
     const { email, name, message } = req.body;
@@ -19,6 +21,8 @@ function handler(req, res) {
         name,
         message
     };
+
+    MongoClient.connect('mongodb+srv://<username>:<password>@cluster0.domp7.mongodb.net/?retryWrites=true&w=majority')
 
     res
         .status(201)

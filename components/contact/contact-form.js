@@ -10,6 +10,7 @@ function ConctactForm() {
     event.preventDefault();
 
     //add client side validation
+    //sent to the backend
 
     fetch("/api/contact", {
       method: "POST",

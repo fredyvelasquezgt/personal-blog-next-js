@@ -1,10 +1,12 @@
 import { useState } from "react";
 import classes from "./contact-form.module.css";
+import Notification from '../ui/notification';
 
 function ConctactForm() {
   const [enteredEmail, setEnteredEmail] = useState("");
   const [enteredName, setEnteredName] = useState("");
   const [enteredMessage, setEnteredMessage] = useState("");
+  const [requestStatus, setRequestStatus] = useState("")
 
   function sendMessageHanlder(event) {
     event.preventDefault();

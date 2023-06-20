@@ -2,8 +2,7 @@ import classes from './logo.module.css'
 
 function Logo() {
     return <div className={classes.logo} >
-        Fredy's Software Blog
-    </div>
+The Fredy Files: Insights and Adventures"    </div>
 }
 
 export default Logo;

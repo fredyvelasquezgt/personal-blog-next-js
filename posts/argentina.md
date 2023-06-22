@@ -12,5 +12,6 @@ After enduring a never-ending journey across Brazil, we finally arrived in Bueno
 
 During the night, we turned on the air conditioning to try to cope with the heat, and it helped, but it came with consequences. In the morning, we all woke up with a slight sore throat that would condition the rest of the trip.
 
+After sleeping for 10 hours, we finally woke up, but it was almost noon, and having breakfast wasn't in our plans. So, we skipped straight to lunch and went for something we were dying to try: the famous Argentinean barbecue.
 
 ![Create routes via your file + folder structure](argentina1.jpg)

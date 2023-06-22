@@ -39,3 +39,6 @@ The next day was more of the same: exploring the city. What made this day specia
 After breakfast, we decided to go and explore the neighborhood of Palermo. It was interesting to pass through this place because we were able to get a good sense of the daily life of Argentinians.
 
 Walking through those streets made me think about how big the world is and how insignificant I am. Seeing children leaving school, people in parks or restaurants, and buildings filled with homes or offices was something magical.
+
+![Create routes via your file + folder structure](argentina7.jpeg)
+

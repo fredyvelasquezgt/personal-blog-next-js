@@ -6,6 +6,8 @@ isFeatured: true
 date: '2023-06-20'
 ---
 
+## Buenos Aires Episode 1
+
 ()
 !(nextjs-file-based-routing.png)
 

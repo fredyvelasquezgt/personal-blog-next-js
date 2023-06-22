@@ -22,3 +22,5 @@ After sleeping for 10 hours, we finally woke up, but it was almost noon, and hav
 After the barbecue, we headed out to explore Buenos Aires. We visited the Casa Rosada, the Obelisco, and many other interesting places in the city. We ended the day completely exhausted but satisfied with what we had accomplished. We slept incredibly well that night.
 
 ![Create routes via your file + folder structure](argentina1.jpg)
+
+During that same outing, we visited the famous El Ateneo bookstore. I bought a book, which was the script of the play "Los árboles mueren de pie" by Alejandro Casona.

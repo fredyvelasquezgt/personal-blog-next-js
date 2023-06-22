@@ -6,4 +6,7 @@ isFeatured: true
 date: '2023-06-20'
 ---
 
-(argentina1.jpg)
+()
+!(nextjs-file-based-routing.png)
+
+![Create routes via your file + folder structure](argentina1.jpg)

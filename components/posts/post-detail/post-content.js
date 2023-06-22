@@ -18,14 +18,16 @@ import {atomDark} from 'react-syntax-highlighter/dist/cjs/styles/prism'
           const image = node.children[0];
           return (
             <div className={classes.image}>
-              {
+              
                 <Image
                   src={`/images/posts/${post.slug}/${image.properties.src}`}
                   alt={image.properties.alta}
                   width={600}
-                  height={300}
+                  height={400}
+                  layout="responsive"
+
                 />
-              }
+              
             </div>
           );
         }

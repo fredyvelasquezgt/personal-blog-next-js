@@ -20,7 +20,7 @@ import {atomDark} from 'react-syntax-highlighter/dist/cjs/styles/prism'
             <div className={classes.image}>
               {
                 <Image
-                  src={`/images/posts/getting-started-with-nextjs/${image.properties.src}`}
+                  src={`/images/posts/${post.slug}/${image.properties.src}`}
                   alt={image.properties.alta}
                   width={600}
                   height={300}

@@ -6,4 +6,4 @@ isFeatured: true
 date: '2023-06-20'
 ---
 
-(nextjs-file-based-routing.png)
+(argentina1.jpg)

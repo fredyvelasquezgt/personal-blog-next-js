@@ -7,7 +7,7 @@ function AllPostsPage(props) {
   return(
     <Fragment>
     <Head>
-      <title>Al Posts</title>
+      <title>All Posts</title>
       <meta name="description" content="a list of all posts" />
     </Head>
     <AllPosts posts={props.posts} />

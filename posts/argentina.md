@@ -17,4 +17,6 @@ During the night, we turned on the air conditioning to try to cope with the heat
 
 After sleeping for 10 hours, we finally woke up, but it was almost noon, and having breakfast wasn't in our plans. So, we skipped straight to lunch and went for something we were dying to try: the famous Argentinean barbecue.
 
+![Create routes via your file + folder structure](argentina4.jpeg)
+
 ![Create routes via your file + folder structure](argentina1.jpg)

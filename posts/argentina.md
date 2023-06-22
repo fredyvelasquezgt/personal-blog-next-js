@@ -29,6 +29,6 @@ During that same outing, we visited the famous El Ateneo bookstore. I bought a b
 
 ![Create routes via your file + folder structure](argentina5.jpeg)
 
-### Dia 2
+### Day 2
 
 The next day was more of the same: exploring the city. What made this day special was that we actually had breakfast. We decided to go to San Telmo, a neighborhood near where we were staying, which is known for its great gastronomy. We had some ridiculously expensive waffles that didn't taste as good as we expected...

@@ -6,9 +6,14 @@ isFeatured: true
 date: '2023-06-16'
 ---
 
-## Buenos Aires Episode 1
+## What's the book all about?
 
 
+## Stuff I enjoyed
 
-![Create routes via your file + folder structure](argentina7.jpeg)
+## Stuff I wasn't into
+
+## How it could have been stepped up
+
+![Create routes via your file + folder structure](saramago1.jpeg)
 

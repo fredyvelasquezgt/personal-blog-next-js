@@ -8,7 +8,7 @@ date: '2023-06-20'
 
 ## Buenos Aires Episode 1
 
-()
-!(nextjs-file-based-routing.png)
+After enduring a never-ending journey across Brazil, we finally arrived in Buenos Aires in the early hours and went straight to bed. We noticed that the heat was significant in the city, but we never imagined how intense it would be the next day.
+
 
 ![Create routes via your file + folder structure](argentina1.jpg)

@@ -22,8 +22,8 @@ import {atomDark} from 'react-syntax-highlighter/dist/cjs/styles/prism'
                 <Image
                   src={`/images/posts/${post.slug}/${image.properties.src}`}
                   alt={image.properties.alta}
-                  width={600}
-                  height={400}
+                  width={300}
+                  height={100}
                   layout="responsive"
 
                 />

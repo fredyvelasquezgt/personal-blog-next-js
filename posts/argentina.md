@@ -8,6 +8,8 @@ date: '2023-06-20'
 
 ## Buenos Aires Episode 1
 
+### Day 1
+
 After enduring a never-ending journey across Brazil, we finally arrived in Buenos Aires in the early hours and went straight to bed. We noticed that the heat was significant in the city, but we never imagined how intense it would be the next day.
 
 ![Create routes via your file + folder structure](argentina3.jpeg)
@@ -24,3 +26,9 @@ After the barbecue, we headed out to explore Buenos Aires. We visited the Casa R
 ![Create routes via your file + folder structure](argentina1.jpg)
 
 During that same outing, we visited the famous El Ateneo bookstore. I bought a book, which was the script of the play "Los árboles mueren de pie" by Alejandro Casona.
+
+![Create routes via your file + folder structure](argentina5.jpeg)
+
+### Dia 2
+
+The next day was more of the same: exploring the city. What made this day special was that we actually had breakfast. We decided to go to San Telmo, a neighborhood near where we were staying, which is known for its great gastronomy. We had some ridiculously expensive waffles that didn't taste as good as we expected...

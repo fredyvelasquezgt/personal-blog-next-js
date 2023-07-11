@@ -6,7 +6,6 @@ excerpt: The awesomeness of Gabriel Garcia Marquez and my reasons for loving him
 isFeatured: true
 ---
 
-NextJS is a **framework for ReactJS**.
 
 Wait a second ... a "framework" for React? Isn't React itself already a framework for JavaScript?
 

@@ -1,7 +1,7 @@
 ---
 title: 'Gabriel Garcia Marquez'
 date: '2023-07-08'
-image: getting-started-nextjs.png
+image: garcia2.jpeg
 excerpt: The awesomeness of Gabriel Garcia Marquez and my reasons for loving him.
 isFeatured: true
 ---

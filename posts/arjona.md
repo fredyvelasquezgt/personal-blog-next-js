@@ -1,6 +1,6 @@
 ---
 title: Thoughts on "Como Duele" by Ricardo Arjona.
-excerpt: In this post, I'll share the highlights of my trip to Argentina and the thoughts I had throughout that time.
+excerpt: arjona.jpeg
 image: argentina2.JPG
 isFeatured: true
 date: '2023-06-20'

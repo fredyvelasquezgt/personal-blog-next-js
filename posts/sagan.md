@@ -1,7 +1,7 @@
 ---
 title: Thanks for opening my eyes, Carl Sagan.
-excerpt: In this post, I'll share the highlights of my trip to Argentina and the thoughts I had throughout that time.
-image: argentina2.JPG
+excerpt: In this post, I want to talk about Carl Sagan, his worldwide legacy, and how, even in death, he continues to inspire thousands of people (myself included).
+image: sagan.jpeg
 isFeatured: true
 date: '2023-06-20'
 ---

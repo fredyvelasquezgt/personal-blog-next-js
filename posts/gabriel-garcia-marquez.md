@@ -7,17 +7,10 @@ isFeatured: true
 ---
 
 
-## Why would we then need NextJS?
+## As if I was chatting with a buddy
 
 
-- File-based Routing
-- Built-in Page Pre-rendering
-- Rich Data Fetching Capabilities
-- Image Optimization
-- Much More
 
-## File-based Routing
 
-![Create routes via your file + folder structure](nextjs-file-based-routing.png)
-![Create routes via your file + folder structure](nextjs-file-based-routing.png)
+![Create routes via your file + folder structure](garcia1.jpeg)
 

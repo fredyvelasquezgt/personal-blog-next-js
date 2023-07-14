@@ -14,3 +14,6 @@ date: '2021-10-30'
 ## Maxwell y Venus
 
 ![Create routes via your file + folder structure](max2.jpeg)
+
+
+![Create routes via your file + folder structure](max3.jpeg)

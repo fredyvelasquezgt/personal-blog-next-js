@@ -12,3 +12,5 @@ date: '2021-10-30'
 ## Mawewll's equations
 
 ## Maxwell y Venus
+
+![Create routes via your file + folder structure](max2.jpeg)

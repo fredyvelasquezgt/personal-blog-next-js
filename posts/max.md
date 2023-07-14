@@ -1,7 +1,7 @@
 ---
 title: A life like Maxwell's, man
 excerpt: 
-image: max.jpeg
+image: max1.jpeg
 isFeatured: false
 date: '2021-10-30'
 ---

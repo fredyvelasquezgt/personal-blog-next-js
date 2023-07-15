@@ -1,6 +1,6 @@
 ---
 title: A life like Maxwell's, man
-excerpt: 
+excerpt: hello
 image: max1.jpeg
 isFeatured: false
 date: '2021-10-30'

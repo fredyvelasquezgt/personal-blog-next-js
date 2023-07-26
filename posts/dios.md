@@ -17,3 +17,5 @@ La historia está contada desde diversas perspectivas, ya que consideramos que e
 ## Jefe explorador
 
 Durante algunas semanas, el ayuntamiento de Jerusalén alertó que existía una proliferación de problemas en la geología de la ciudad. 
+
+Los informes no eran para nada claros. Los dueños de varios edificios habían reportado fugas de agua en sus sótanos, algunas personas, mayormente de la tercera edad, dijeron que sentían retumbos en sus casas a diversas horas del día, y finalmente, y por si no teníamos ya bastante, 

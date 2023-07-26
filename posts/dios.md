@@ -13,3 +13,5 @@ El martes 25 de julio, los arqueológos descubrieron debajo de Jerusalén distin
 La relevancia del caso reside en que, en efecto, el hombre que encontraron, efectivamente probó que era Dios.
 
 La historia está contada desde diversas perspectivas, ya que consideramos que era necesario contar con todos los puntos de vista de un evento tan relevante como el acontecido.
+
+## Explorador

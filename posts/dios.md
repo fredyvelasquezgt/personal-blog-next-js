@@ -18,4 +18,6 @@ La historia está contada desde diversas perspectivas, ya que consideramos que e
 
 Durante algunas semanas, el ayuntamiento de Jerusalén alertó que existía una proliferación de problemas en la geología de la ciudad. 
 
-Los informes no eran para nada claros. Los dueños de varios edificios habían reportado fugas de agua en sus sótanos, algunas personas, mayormente de la tercera edad, dijeron que sentían retumbos en sus casas a diversas horas del día, y finalmente, y por si no teníamos ya bastante, 
+Los informes no eran para nada claros. Los dueños de varios edificios habían reportado fugas de agua en sus sótanos, algunas personas, mayormente de la tercera edad, dijeron que sentían retumbos en sus casas a diversas horas del día, y finalmente, y por si no teníamos ya bastante, se reportaron grietas de tamaño significativo en el centro de la ciudad.
+
+Reunimos al equipo y nos decidimos que durante la mañana del 25 de julio exploraríamos el sistema de alcantarillado de la ciudad.

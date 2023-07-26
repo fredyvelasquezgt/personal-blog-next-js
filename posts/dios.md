@@ -14,4 +14,6 @@ La relevancia del caso reside en que, en efecto, el hombre que encontraron, efec
 
 La historia está contada desde diversas perspectivas, ya que consideramos que era necesario contar con todos los puntos de vista de un evento tan relevante como el acontecido.
 
-## Explorador
+## Jefe explorador
+
+Durante algunas semanas, el ayuntamiento de Jerusalén alertó que existía una proliferación de problemas en la geología de la ciudad. 

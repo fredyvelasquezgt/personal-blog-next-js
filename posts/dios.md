@@ -1,5 +1,5 @@
 ---
-title: My whole (or nearly whole) trip to Argentina
+title: Encontramos a D(d)ios!
 excerpt: In this post, I'll share the highlights of my trip to Argentina and the thoughts I had throughout that time.
 image: argentina2.JPG
 isFeatured: true

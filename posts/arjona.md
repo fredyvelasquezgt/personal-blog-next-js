@@ -3,7 +3,7 @@ title: Thoughts on "Como Duele" by Ricardo Arjona.
 excerpt: In this post, I'm going to share my thoughts on Ricardo Arjona's song "Como Duele." In an exercise of schizophrenia, I want to discuss this from different perspectives.
 image: arjona.jpeg
 isFeatured: true
-date: '2023-06-20'
+date: '2023-07-20'
 ---
 
 ## Just another day

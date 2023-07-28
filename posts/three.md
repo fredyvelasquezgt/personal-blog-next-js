@@ -1,5 +1,5 @@
 ---
-title: You only three goals!
+title: You only need three goals!
 excerpt: 
 image: three.jpeg
 isFeatured: true

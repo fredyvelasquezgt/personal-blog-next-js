@@ -1,7 +1,7 @@
 ---
 title: You only three goals!
 excerpt: 
-image: dios2.jpeg
+image: three.jpeg
 isFeatured: true
 date: '2023-07-26'
 ---

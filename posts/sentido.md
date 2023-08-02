@@ -1,6 +1,6 @@
 ---
-title: 
-excerpt: En este post voy a contar cual sería el escenario si la humanidad encontrara a D(d)ios. Quiero explorar todo lo que conllevaría tal descubrimiento en la sociedad en la que vivimos actualmente. 
+title: What is the meaning of life?
+excerpt: "In this post, I will be reflecting on the possible meaning of life and how, from my point of view, the world is lost."
 image: dios2.jpeg
 isFeatured: true
 date: '2023-07-24'

@@ -16,7 +16,12 @@ Una vida plena para Fredy Velasquez representa una sola cosa: paz mental. Desde 
 4. La familia no es lo más importante
 5. La paz mental conmigo mismo es lo más importante
 
+![alt](vidaPlena4.jpg)
+
+
 Después de este año en cuestión comencé a cuestionarme todo a mi alrededor. Me di cuenta que la vida que tenía no era la que quería y que estaba en mis manos hacer el cambio. Así que me puse a trabjar en eso. Hice una lista de 15 cosas que estaban mal en mi vida, dibujé una flecha hacia el resultado que esperaba tener tras corregir esas cosas malas y tracé un plan de como arreglar mi vida. Los detalles no importan, pero ese acto lo hice un 4 de julio de 2022, un año después, el 4 de julio de 2023 yo estaba nadando, de madrugada, en una playa paradisicada en Panamá, disfrutando de la compañía de amigos excelentes, con muchas cosas nuevas en la cabeza y con una paz exagerada en mi. Lo había logrado. 
+
+
 
 ## El camino
 
@@ -35,6 +40,9 @@ Los pilares fundamentales para mi vida son los siguientes:
 - Anhelo de eliminar a quien era para poder convertirme en alguien superior
 
 Un día en la vida plena de Fredy se resume en estudiar mucho, trabajar de forma eficiente, entrenar hasta el cansancio, descubrir el mundo por medio del conocimiento, pasar tiempo con las personas a las que quiero y lo más importante: tener la certidumbre mortal de que estoy viviendo la vida que siempre soñé. 
+
+![alt](vidaPlena3.jpg)
+
 
 ## Lo que aún falta por llegar
 

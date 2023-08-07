@@ -1,6 +1,6 @@
 ---
 title: Prejucios
-excerpt: En este post 
+excerpt: En este post voy a compartir mis reflexiones sobre los prejucios en general, mis prejuicios en particular y como desde mi perspectiva estos no son tan malos como parecen
 image: prejucio.jpeg
 isFeatured: true
 date: '2023-08-02'

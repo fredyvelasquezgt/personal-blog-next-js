@@ -15,3 +15,5 @@ Una vida plena para Fredy Velasquez representa una sola cosa: paz mental. Desde 
 3. Los amigos no son lo más importante
 4. La familia no es lo más importante
 5. La paz mental conmigo mismo es lo más importante
+
+Después de este año en cuestión comencé a cuestionarme todo a mi alrededor. Me di cuenta que la vida que tenía no era la que quería y que estaba en mis manos hacer el cambio. Así que me puse a trabjar en eso. Hice una lista de 15 cosas que estaban mal en mi vida, dibujé una flecha hacia el resultado que esperaba tener tras corregir esas cosas malas y tracé un plan de como arreglar mi vida. 

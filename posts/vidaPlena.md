@@ -48,6 +48,12 @@ Un día en la vida plena de Fredy se resume en estudiar mucho, trabajar de forma
 
 Sé que soy joven, con 21 años aún tengo toda la vida por delante, pero siento que voy bien encaminado y eso me da mucha paz, sé que si sigo haciendo las cosas bien todo llegará a su tiempo. Tengo presente que me faltan personas y lugar por conocer, sensaciones por experimentar y cosas por aprender, pero la vida en el tiempo que llevo teniéndola me ha enseñado que la paciencia siempre trae para mí cosas que yo ni en mis mejores sueños podría haber pensado. Así es la vida, supongo. Trato de no correr, voy día a día, jornada a jornada, como decía Séneca. 
 
+![alt](vidaPlena6.jpg)
+
+
 ## La importancia de una vida plena
 
 Creo que todos aspiramos a tener una vida plena, una vida en la que todas nuestras metas se cumplan y una vida en la que podamos disfrutar día tras día. Lo complicado de conseguir una vida plena es el cambio. Sabemos qué es lo que tenemos que hacer para cambiar pero estamos tan acomodados en nuestra mediocridad que preferimos quedarnos ahí que sufrir la incomodidad de evolucionar. Es vital reconocer que detrás de todos nuestros patrones tóxicos está el premio que siempre hemos querido alcanzar, solo nos falta dar ese salto, nos hace falta tener una epifanía para darnos cuenta de que las cosas sí son posibles. Espero que quien lea esto algún día pueda alcanzar su vida soñada así como yo lo hice. Que pueda tener una vida sin dramas y sin preocupaciones así como yo la tengo. Que pueda experimentar del cambio tras sufrir un poco de incomodidad. Que pueda evolucionar mientras nadie se da cuenta, mientras el mundo avanza, siempre alrededor del sol.
+
+![alt](vidaPlena5.jpg)
+

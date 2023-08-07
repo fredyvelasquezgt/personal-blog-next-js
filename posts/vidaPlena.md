@@ -8,4 +8,10 @@ date: '2023-08-05'
 
 ## Una vida plena para mi
 
-Una vida plena para Fredy Velasquez representa una sola cosa: paz mental. Desde hace un buen tiempo comprendí que lo más importante en la vida no es la felicidad, sino la paz. Tuve una etapa en la que prioricé la felicidad y el placer por delante de todo y dejenme decirles que no salió nada bien de eso, el hedonismo no es para mí y nunca lo será, ese camino solo lleva a un lugar y corroe el alma, además de que se pierde demasiado tiempo buscando placer.
+Una vida plena para Fredy Velasquez representa una sola cosa: paz mental. Desde hace un buen tiempo comprendí que lo más importante en la vida no es la felicidad, sino la paz. Tuve una etapa en la que prioricé la felicidad y el placer por delante de todo y dejenme decirles que no salió nada bien de eso, el hedonismo no es para mí y nunca lo será, ese camino solo lleva a un lugar y corroe el alma, además de que se pierde demasiado tiempo buscando placer. Un año plagado de eventos de todo tipo hizo que me diera cuenta de muchas cosas sobre la vida:
+
+1. El dinero no es lo más importante
+2. El amor no es lo más importante
+3. Los amigos no son lo más importante
+4. La familia no es lo más importante
+5. La paz mental conmigo mismo es lo más importante

@@ -21,3 +21,15 @@ Después de este año en cuestión comencé a cuestionarme todo a mi alrededor. 
 ## El camino
 
 Las cosas buenas nunca son fáciles. Para mejorar esos 15 aspectos de mi vida tuve que encerrarme durante meses en mi habitación, reflexionar sobre todo lo que creía saber sobre el mundo, sobre mi y sobre la vida. La segunda parte de mi 2022 se concentró en arreglar todos los errores que el Fredy del pasado había cometido. Fue una tarea inmensa para alguien que se había acostumbrado a vivir en una jaula de la cual nunca se percató que era prisionero. Pero el tiempo pasa para todos, y también lo hizo para mi. Para octubre de 2022 mi vida ya había comenzado a cambiar de formas que yo nunca pensé que podrían pasar. Para finales de diciembre yo ya no reconocía al Fredy del 4 de julio, era una persona tan diferente, pero aún habían unas migas de él en mi. Como lo dije antes, hace un año desde que todo comenzó y puedo estar seguro de que lo más importante es el camino. Tengo aspiraciones exageradamente grandes para mi vida, ¿las conseguiré? No lo sé, estoy utilizando todas las fuerzas de mi ser para conseguirlas pero el tiempo lo dirá todo. Lo fundamental es el camino que tengo que recorrer para lograr esas cosas, estoy entrenando duro para convertirme en campeón de nacional de boxeo, sé que para llegar ahí tengo que matar definitivamente al Fredy de antes y evolucionar para convertirme en alguien más fuerte, más determinad y más valiente. Y fue este mismo pensamiento el que me permitió cambiar de una vez por todas. Apunté a convertirme en alguien en particular, y mientras trataba de ser esa persona, cambios importantes pasaban en mi.
+
+## La escencia de una vida plena
+
+Los pilares fundamentales para mi vida son los siguientes:
+
+- Metas altas
+- Practicar deportes
+- Curiosidad inmensa
+- Deseo de mejora constante
+- Anhelo de eliminar a quien era para poder convertirme en alguien superior
+
+Un día en la vida plena de Fredy se resume en estudiar mucho, trabajar de forma eficiente, entrenar hasta el cansancio, descubrir el mundo por medio del conocimiento, pasar tiempo con las personas a las que quiero y lo más importante: tener la certidumbre mortal de que estoy viviendo la vida que siempre soñé. 

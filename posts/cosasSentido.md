@@ -19,3 +19,6 @@ Para responder a la pregunta de primero necesitamos conocer cual es el sentido d
 Si cada día es una vida, entonces hay que vivir cada día con sentido. Si descomponemos las 24 horas del día en fragmentos más pequeños y los analizamos a profundidad, podemos darnos cuenta si estamos viviendo cada pedacito del día con sentido.
 
 A lo que voy es que cada acción que hagamos en nuestro día tiene que tener un sentido. Hacer las cosas solo "porque sí" me parece de lo más triste y decadente que existe. Pienso que si hacemos las cosas solo porque nuestros instintos o nuestros patrones de vida nos lo piden nos estamos perdiendo de realmente comprender las razones por las que actuamos como actuamos, pensamos como pensamos y sentimos como sentimos.
+
+## Como vivo una vida con sentido
+

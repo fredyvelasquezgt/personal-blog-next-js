@@ -10,4 +10,4 @@ date: '2023-08-06'
 
 No recuerdo si fue Aristóteles quien dijo que la única vida que valía la pena vivir es una vida de reflexión, en cualquier caso, yo le atribuyo la frase a él, y como este es mi blog, yo puedo hacer lo que quiera. Es de esta frase de la que parte este post. La escuché desde hace ya mucho tiempo y la he reflexionado y moldeado a mi perspectiva de vida, y lo que puedo concluir es lo siguiente:
 
-### La única vida que vale la pena vivir es una vida con sentido
+*"La única vida que vale la pena vivir es una vida con sentido"*

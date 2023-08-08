@@ -20,5 +20,7 @@ Si cada día es una vida, entonces hay que vivir cada día con sentido. Si desco
 
 A lo que voy es que cada acción que hagamos en nuestro día tiene que tener un sentido. Hacer las cosas solo "porque sí" me parece de lo más triste y decadente que existe. Pienso que si hacemos las cosas solo porque nuestros instintos o nuestros patrones de vida nos lo piden nos estamos perdiendo de realmente comprender las razones por las que actuamos como actuamos, pensamos como pensamos y sentimos como sentimos.
 
-## Como vivo una vida con sentido
+## Hacer cada cosa con sentido
+
+Este año ha sido vital para mi cuestionamiento sobre el mundo y las cosas que hay en él. Me di cuenta que estaba haciendo cosas solo "porque sí" no había nada sólido detrás de mis acciones. Poco a poco cambié mis patrones de pensamiento para evaluar las cosas que hacía y me di cuenta que estaba viviendo una vida con sentido. Mi fe en Dios, mis pensamientos sobre el amor y la amistad, el trabajo duro, mi personalidad, mi familia... me he cuestionado todo y me di cuenta de que el 99% de mis acciones y pensamientos eran cosas sin sentidos, era cosas random que aparecían en mi cabeza y que luego se materializaban, pero no había nada sosteniendo todo eso.
 

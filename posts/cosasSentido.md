@@ -15,3 +15,5 @@ No recuerdo si fue Aristóteles quien dijo que la única vida que valía la pena
 ## ¿Cómo vivo una vida con sentido?
 
 Para responder a la pregunta de primero necesitamos conocer cual es el sentido de nuestras vidas, considero que encontrarlo es exageradamente complicado y es algo que solo llega con el tiempo y con la experiencia, sin embargo, tal y como decía Séneca, tenemos que ver cada día como si fuera una vida, ver cada día como si fuera una jornada, y es acá en donde podemos empezar a vivir con sentido.
+
+Si cada día es una vida, entonces hay que vivir cada día con sentido. Si descomponemos las 24 horas del día en fragmentos más pequeños y los analizamos a profundidad, podemos darnos cuenta si estamos viviendo cada pedacito del día con sentido.

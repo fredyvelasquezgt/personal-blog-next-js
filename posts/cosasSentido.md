@@ -1,24 +1,13 @@
 ---
 title: Hacer las cosas con sentido
 excerpt: En este post voy a comentar mis opiniones sobre hacer las cosas con sentido y lo que esto representa en nuestras vidas
-image: arjona.jpeg
+image: aris1.jpeg
 isFeatured: true
 date: '2023-08-06'
 ---
 
-## Just another day
+## Hacer las cosas con sentido
 
-My name is Fredy Velásquez. I'm 50 years old and I live in Guatemala. I wake up in the morning, like any other day. I've always been a lover of sleep, so I stay in bed for a little while longer as I regain all my important faculties. Sunlight is already streaming in through the window, signaling a new day. It's been 20 years since I last slept alone. I got married to the love of my life when I was 30. Even after all this time, she still sleeps and wakes up by my side, but nothing is like it used to be. As I continue to regain my faculties, I reflect on how life has been lately. Fear paralyzes me as I start connecting the dots.
+No recuerdo si fue Aristóteles quien dijo que la única vida que valía la pena vivir es una vida de reflexión, en cualquier caso, yo le atribuyo la frase a él, y como este es mi blog, yo puedo hacer lo que quiera. Es de esta frase de la que parte este post. La escuché desde hace ya mucho tiempo y la he reflexionado y moldeado a mi perspectiva de vida, y lo que puedo concluir es lo siguiente:
 
-
-
-## Beginning
-
-I remember that since I was a child, I've really liked Ricardo Arjona's music. However, it was only recently that I began to realize his genius and the quality of his lyrics. In this post, I will specifically talk about his song "Como Duele," which is part of the album "Quinto Piso."
-
-## Breaking down "Como Duele"
-
-
-![Create routes via your file + folder structure](argentina7.jpeg)
-
-## Conclusion
+### La única vida que vale la pena vivir es una vida con sentido

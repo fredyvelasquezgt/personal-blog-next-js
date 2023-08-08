@@ -24,3 +24,5 @@ A lo que voy es que cada acción que hagamos en nuestro día tiene que tener un 
 
 Este año ha sido vital para mi cuestionamiento sobre el mundo y las cosas que hay en él. Me di cuenta que estaba haciendo cosas solo "porque sí" no había nada sólido detrás de mis acciones. Poco a poco cambié mis patrones de pensamiento para evaluar las cosas que hacía y me di cuenta que estaba viviendo una vida con sentido. Mi fe en Dios, mis pensamientos sobre el amor y la amistad, el trabajo duro, mi personalidad, mi familia... me he cuestionado todo y me di cuenta de que el 99% de mis acciones y pensamientos eran cosas sin sentidos, era cosas random que aparecían en mi cabeza y que luego se materializaban, pero no había nada sosteniendo todo eso.
 
+Poco a poco me di cuenta de que podía comenzar a vivir otra vez. Traté de iniciar desde cero y poco a poco he ido descubriendo las cosas que realmente me satisfacen y las razones por las que lo hacen.
+

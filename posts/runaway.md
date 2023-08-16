@@ -15,3 +15,5 @@ I first heard "Runaway" a few years ago, but I never really paid much attention 
 We can spend hour talking about Kanye West as a person, and even more hours talking about his music, but I just want to say a few things about him. I have analyzed Kanye West and realized he's completely crazy. However, from my point of view, it's the crazy ones who make this world so rich and entertaining, which is why I like him as a person (completely disregarding the episodes where he has proven to be a terrible human being) and I believe the music industry greatly benefits from his presence.
 
 Given his madness, I believe he manages to see things we don't. I think he has experienced complex personal episodes that have led him to view humanity in a completely different way, and it is from this point, in my opinion, that his musical genius begins.
+
+The fact that I don't know Kanye West is evident, but I like to think that he is a very observant and reflective person, and that, combined with a lot of craziness, money, free time, and creativity, results in exceptional works of art like his song "Runaway."

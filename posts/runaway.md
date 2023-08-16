@@ -6,8 +6,10 @@ isFeatured: true
 date: '2023-07-10'
 ---
 
-## Runaway 
+## The beginning
 
 I first heard "Runaway" a few years ago, but I never really paid much attention to the lyrics; in fact, I found it boring and never managed to grasp the idea it was trying to convey. However, a few months ago, I started becoming more interested in Kanye West's music, and that's when I discovered all the magic behind this man and especially this song, which I find magnificent.
 
+## Kanye West
 
+We can spend hour talking about Kanye West as a person, and even more hours talking about his music, but I just want to say a few things about him. I have analyzed Kanye West and realized he's completely crazy. However, from my point of view, it's the crazy ones who make this world so rich and entertaining, which is why I like him as a person (completely disregarding the episodes where he has proven to be a terrible human being) and I believe the music industry greatly benefits from his presence.

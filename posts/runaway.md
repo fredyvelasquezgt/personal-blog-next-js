@@ -26,4 +26,9 @@ This song perfectly describes Kanye West's narcissistic, egomaniacal, manipulati
 
 I would like to deeply understand the process Kanye West went through to write this song. I suppose he had to engage in a tremendous exercise of personal reflection to realize that he was broken inside. Sometimes, I myself undertake these exercises, yet I almost always reach a point where I become afraid to continue delving into myself; I get scared of my own soul and decide it's best to stop. I believe Kanye West surpassed his own limits, conquered the fear that I still hold, and delved into the darkest corners of his soul to uncover all the decay that existed there, and I find that exceedingly brave and of tremendous merit.
 
+![alt](kanye3.jpeg)
+
+
 I'm fond of these introspective and profound songs because they prompt me to delve into what constitutes us as human beings. I've come to realize that I have a penchant for these kinds of themes and that I enjoy seeking related material, which is why I believe Kanye West's discography could be quite enlightening for me. Anyway, there's still much more to say about him and his work, but that will be for another post. I know he'll never read this, but I want to express gratitude to Kanye West for his sincerity and courage. Not everyone possesses the bravery to plumb the depths of their souls and to transform all that darkness into art; it's truly impressive.
+
+![alt](kanye4.jpeg)

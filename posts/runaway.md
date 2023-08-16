@@ -8,5 +8,6 @@ date: '2023-07-10'
 
 ## Runaway 
 
+I first heard "Runaway" a few years ago, but I never really paid much attention to the lyrics; in fact, I found it boring and never managed to grasp the idea it was trying to convey. However, a few months ago, I started becoming more interested in Kanye West's music, and that's when I discovered all the magic behind this man and especially this song, which I find magnificent.
 
 

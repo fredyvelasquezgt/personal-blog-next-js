@@ -30,3 +30,7 @@ Este año ha sido vital para mi cuestionamiento sobre el mundo y las cosas que h
 Me di cuenta de que podía comenzar a vivir otra vez. Traté de iniciar desde cero y poco a poco he ido descubriendo las cosas que realmente me satisfacen y las razones por las que lo hacen. Voy lento, pero con la tranquilidad de que ahora vivo una vida con sentido real, que dejé la ignorancia de hacer las cosas sin un sentido auténtico y que si sigo por este camino con el tiempo llegaré a vivir una vida llena de sentido en la que pueda ser feliz porque sé que lo hago es lo que realmente mi alma y mi corazón me piden.
 
 ![alt](aris3.jpg)
+
+## Ejemplos de hacer las cosas con sentido
+
+ 

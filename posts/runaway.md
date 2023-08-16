@@ -17,3 +17,5 @@ We can spend hour talking about Kanye West as a person, and even more hours talk
 Given his madness, I believe he manages to see things we don't. I think he has experienced complex personal episodes that have led him to view humanity in a completely different way, and it is from this point, in my opinion, that his musical genius begins.
 
 The fact that I don't know Kanye West is evident, but I like to think that he is a very observant and reflective person, and that, combined with a lot of craziness, money, free time, and creativity, results in exceptional works of art like his song "Runaway."
+
+![alt](kanye2.jpeg)

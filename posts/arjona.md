@@ -22,6 +22,8 @@ The song begins by mentioning things that are impossible for a simple human to d
 
 Then, little by little, Arjona begins to narrate his pain to us. It hurts him that the person who is so close to him is also so far away. Something I like about this part is that Arjona's tone of voice becomes softer, which better represents that silent pain we feel in our chest. It hurts Arjona to love his partner, it hurts him to give his life to something that no longer makes any sense. Apparently, this story unfolded over a considerable number of years. Here, I put myself in the author's shoes and try to empathize with him. How would I feel if I realized that I've spent my life loving someone who doesn't love me back? It would surely be terrifying.
 
+Arjona continues narrating the things he has done to regain that love. He tells us about the false hopes he has had regarding the situation getting better, but nothing returned to its place. Something that catches my attention in this part of the song is the phrase "sleeping here in the same bed." Since the bed is generally synonymous with intimacy in a couple, but even there, everything is not in harmony, yet Arjona keeps pretending that everything is fine, that there's a solution, but deep down, he knows there isn't. Surely, someone who has never experienced this wouldn't know how easy it is to let go of such a situation. I think that only a higher force, be it God, life, the universe, or willpower, is capable of freeing us from those demons.
+
 ![Create routes via your file + folder structure](arjona4.jpeg)
 
 ## Conclusion

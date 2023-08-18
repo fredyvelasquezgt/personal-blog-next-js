@@ -20,6 +20,8 @@ I remember that since I was a child, I've really liked Ricardo Arjona's music. H
 
 The song begins by mentioning things that are impossible for a simple human to do, but not for a human in love, and this is where the genius begins. The first few seconds of the song let us know that Ricardo has already done everything for his partner, but if that's enough for her, because she doesn't even flinch.
 
+Then, little by little, Arjona begins to narrate his pain to us. It hurts him that the person who is so close to him is also so far away. Something I like about this part is that Arjona's tone of voice becomes softer, which better represents that silent pain we feel in our chest. It hurts Arjona to love his partner, it hurts him to give his life to something that no longer makes any sense. Apparently, this story unfolded over a considerable number of years. Here, I put myself in the author's shoes and try to empathize with him. How would I feel if I realized that I've spent my life loving someone who doesn't love me back? It would surely be terrifying.
+
 ![Create routes via your file + folder structure](arjona4.jpeg)
 
 ## Conclusion

@@ -29,3 +29,5 @@ Arjona continues narrating the things he has done to regain that love. He tells 
 ## Conclusion
 
 I want to connect the story from the beginning with the explanation of the song. I know that life is unpredictable, and we are at the mercy of what it wants to send our way, but I hope to never be in a situation like the one at the start. Writing those lines was quite terrifying, and I hope to make the right decisions to prevent that from happening to me, and to never have to experience what is described in "Como duele." Although at my tender age of 21, I have already lived through something similar, albeit on a smaller scale.
+
+I believe the song is a stroke of genius. It perfectly captures the feeling of being in a relationship that has run its course but can't be broken due to certain circumstances, perhaps social or emotional. It's one of Arjona's great themes, his distinct writing style shines through, and the sounds of the song convey the agony experienced in such situations very effectively. Thank you, Ricardo Arjona.

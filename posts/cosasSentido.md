@@ -33,4 +33,7 @@ Me di cuenta de que podía comenzar a vivir otra vez. Traté de iniciar desde ce
 
 ## Ejemplos de hacer las cosas con sentido
 
- 
+1. Estar con las personas que realmente me suman cosas positivas
+2. Entrenar para volverme más fuerte
+3. Estudiar para poder afrontar mejor los retos del mundo
+4. Descansar porque mañana tengo que seguir destruyendo a mi versión débil

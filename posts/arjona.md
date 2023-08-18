@@ -27,3 +27,5 @@ Arjona continues narrating the things he has done to regain that love. He tells 
 ![Create routes via your file + folder structure](arjona4.jpeg)
 
 ## Conclusion
+
+I want to connect the story from the beginning with the explanation of the song. I know that life is unpredictable, and we are at the mercy of what it wants to send our way, but I hope to never be in a situation like the one at the start. Writing those lines was quite terrifying, and I hope to make the right decisions to prevent that from happening to me, and to never have to experience what is described in "Como duele." Although at my tender age of 21, I have already lived through something similar, albeit on a smaller scale.

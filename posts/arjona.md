@@ -18,7 +18,7 @@ I remember that since I was a child, I've really liked Ricardo Arjona's music. H
 
 ## Breaking down "Como Duele"
 
-
+The song begins by mentioning things that are impossible for a simple human to do, but not for a human in love, and this is where the genius begins. The first few seconds of the song let us know that Ricardo has already done everything for his partner, but if that's enough for her, because she doesn't even flinch.
 
 ![Create routes via your file + folder structure](arjona4.jpeg)
 

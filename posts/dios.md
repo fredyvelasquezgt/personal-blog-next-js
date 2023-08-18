@@ -19,3 +19,5 @@ Para las diversas culturas del mundo cada dios es el auténtico. Considero que a
 ## Las consecuencias
 
 Surgirían muchas preguntas, algunas relacionadas con qué estuvo haciendo Dios todo este tiempo y las razones por las que salió hasta ahorita. Estoy seguro que una partida de filósofos pondrían aprueba a Dios sobre los temas más elementales de la vida. También estoy seguro que muchos lo buscarían solo para obtener un milagro de él, como si la creación no fuera suficiente milagro para la humanidad... somos unos malagradecidos. 
+
+Pienso que Dios se convertiría en una figura tan famosa a nivel social que lo comenzarían a invitar a pasar el tiempo con los famosos de la tierra. No sería raro ver una foto de Dios con Kanye West, o en los billboards, o en alguna protesta ideológica. Supongo que le tendríamos que explicar a Dios que su creación se pudrió y que el mundo que él planeó en el inicio ya no es el mismo.

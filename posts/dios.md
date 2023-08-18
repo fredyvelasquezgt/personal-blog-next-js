@@ -12,4 +12,6 @@ Es la segunda vez que escribo el contenido de este post. Las razones son diversa
 
 ## Encontramos a Dios
 
-Imaginemos el mundo en el que vivimos, imaginemos que por razones diversas encontramos a Dios. No importa el lugar, solo que lo encontramos. 
+Imaginemos el mundo en el que vivimos, imaginemos que por razones diversas encontramos a Dios. No importa el lugar, solo que lo encontramos. Considero que el mundo querrá pruebas de que hemos encontrado al Dios verdadero, sin embargo, ¿cómo sabemos que es el verdadero?
+
+Para las diversas culturas del mundo cada dios es el auténtico. Considero que aquí comenzaría un conflicto para saber quien se queda con dios y quien es dios. Para el cristianismo sería Dios, el de siempre. Para el hinduismo tal vez sea ganesh o tal vez shiva, para otra parte del mundo tal vez sea Zeus, quien sabe. 

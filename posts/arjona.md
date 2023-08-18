@@ -10,6 +10,8 @@ date: '2023-07-20'
 
 My name is Fredy Velásquez. I'm 50 years old and I live in Guatemala. I wake up in the morning, like any other day. I've always been a lover of sleep, so I stay in bed for a little while longer as I regain all my important faculties. Sunlight is already streaming in through the window, signaling a new day. It's been 20 years since I last slept alone. I got married to the love of my life when I was 30. Even after all this time, she still sleeps and wakes up by my side, but nothing is like it used to be. As I continue to regain my faculties, I reflect on how life has been lately. Fear paralyzes me as I start connecting the dots.
 
+We both become perfect actors. When friends or family are at home, we are the perfect couple; there's no need for us to coordinate that. We both know we have a facade to maintain. But everything changes the moment everyone leaves the house; things go back to normal. We speak only when necessary, we avoid looking each other in the eyes (I can't remember since when), and each of us lives our life the best we can while the other becomes an indispensable hindrance because we can't live together. But the idea of separating destroys us. So, in an act of solidarity with our souls, we lie to ourselves as well. We postpone those uncomfortable conversations because we know they won't lead us anywhere. Each of us cries silently on our side of the bed while the other thinks they are asleep. This is a dynamic where we take turns for convenience, but not for us, not out of love, but out of pity for what once was but is no longer and will never be.
+
 
 
 ## Beginning

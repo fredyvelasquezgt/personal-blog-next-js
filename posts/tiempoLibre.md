@@ -18,4 +18,4 @@ Pienso que esta una forma sana de poner límites con los demás. Y pienso que es
 
 ## Los prejucios malos
 
-Tras haber dicho lo anterior, creo que el tener tantos prejuicios también me limita a la hora de conocer más personas. Mi 2023 se ha centrado mucho en aprender más sobre el mundo de las maneras más diversas posibles. He descubierto mucho por medio de los libros, documentales, viajes y sobretodo de mis conversaciones con personas.
+Tras haber dicho lo anterior, creo que el tener tantos prejuicios también me limita a la hora de conocer más personas. Mi 2023 se ha centrado mucho en aprender más sobre el mundo de las maneras más diversas posibles. He descubierto mucho por medio de los libros, documentales, viajes y sobretodo de mis conversaciones con personas. Considero que limitar mi relación con personas por mis prejuicios es algo perjudicial para mi tarea de tratar de entender el mundo.

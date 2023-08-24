@@ -1,7 +1,7 @@
 ---
 title: Everything falls back into place
 excerpt: 
-image: prejucio.jpeg
+image: china1.jpeg
 isFeatured: true
 date: '2023-08-02'
 ---

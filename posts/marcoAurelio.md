@@ -7,9 +7,9 @@ isFeatured: true
 ---
 
 
-## As if I was chatting with a buddy
+## Mi interés en él
 
-One of the things I love about Gabriel García Márquez's literature is his knack for everyday storytelling. When I read his books, it's like I'm chatting with a long-time friend. At first, his extensive vocabulary can be a bit intimidating, but once you get into it, everything just flows.
+Creo que fue en 2019 o 2020 cuando descubrí la filosofía estoica. No recuerdo como fue, supongo que con algún video de youtube, pero desde ese momento la sabiduría milenaria tomó parte importante en mí. Sabía que Séneca y Marco Aurelio eran los representantes más famosos del estoicismo, leí un poco del trabajo que dejaron pero nunca profundicé en la vida de ellos. Sin embargo, este 2023 me interesé mucho por la vida de Séneca, a quien más adelante también la haré un post, pero los últimos días me estuve concentrando mucho en Marco Aurelio, y lo que descubrí es impresionante.
 
 
 

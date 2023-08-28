@@ -13,7 +13,11 @@ Creo que fue en 2019 o 2020 cuando descubrí la filosofía estoica. No recuerdo 
 
 ## La vida de Marco Aurelio
 
-## Marco Aurelio en el poder
+## La verdadera grandeza de Marco Aurelio 
+
+Para aquel tiempo, el imperio romano era todo el mundo. Afuera de él estaban los bárbaros y poco más. La gente de esa época pensaba que eran el centro del mundo, y siendo Marco Aurelio el emperador, él era el dueño del mundo.
+
+Era común que los emperadores vivieran vidas de lujos y extravagancias, al final de cuenta, tenían todo el dinero del mundo y estaban por encima de la ley, ellos eran la ley. Era 
 
 ## Las lecciones más importantes
 

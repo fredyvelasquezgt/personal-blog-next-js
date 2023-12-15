@@ -35,9 +35,16 @@ Esta lista es un poco más corta que la anterior, lo prometo.
 
 2. La historia de Sofía y Alberto por momentos era muy enredada jaja. Me perdí en algunas partes pero pienso que es normal dada la naturaleza de la historia y la forma en la que está estructurado el libro. Algunas cosas también me parecieron absurdas de esta historia, al final de cuentas se logra entender el propósito pero todo es confuso por momentos.
 
+
 ## El valor de esta obra en la época en la que vivimos
 
+Este libro recibe el cumplido de "El libro que ha enseñado a pensar a toda una generación" y creo que tiene mucha razón. El libro está basado mucho en la investigación y como el ser humano ha tratado de explicar su realidad durante los últimos 2,500 años, y pienso que justamente ahí está el valor. El libro nos enseña las distintas ideas que han surgido en todo este tiempo y pienso que el autor hizo esto con el fin de que nosotros también podamos crear nuestras propias explicaciones con las herramientas que aprendimos durante la lectura. 
 
+Al inicio del libro se menciona a un conejo y a un mago. Se dice que el mago es capaz de sacar a un conejo de un sombrero y que nosotros, la sociedad, estamos metidos en uno de los pelos de ese conejo, pero que algunas personas se hunden tanto en la superficilidad del mundo que se olvidan de cuestionar las cosas. Y que justamente la tarea de los filósofos en escalar el pelo del conejo lo más alto que se pueda hasta estar por encima, y ahí buscar explicaciones, tal vez estando un poco más cerca del mago podamos encontrar respuestas certeras sobre el mundo. 
+
+En la época turbulenta en la que vivimos, el cambio está a la orden del día. Es muy fácil dejarnos llevar por las redes sociales, por lo que digan los amigos o la familia, comportarnos o pensar de cierta forma solo porque así lo dictamina la sociedad, pero creo que eso está totalmente mal. Debemos de cuestionar todo lo que hacemos y pensamos, esa es la belleza de estar vivos y de poseer la habilidad de ser conscientes, sería una falta de respeto para nosotros mismos no utilizar nuestro razonamiento, y justamente esa idea es la que fomenta el libro. Mi vida cambió con este libro y sin duda alguno pienso volverlo a leer en un futuro no tan lejano. 
+
+Me gusta voltear hacia atrás y ver como todo en el mundo está cimentado en ideas de personas del pasado. Existe algo romántico y poético en que cada generación continua con el trabajo de nuestros antepasados. El mundo tiene una forma muy extraña de funcionar y me encanta.
 
 
 

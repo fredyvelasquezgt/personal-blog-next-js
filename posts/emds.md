@@ -17,8 +17,15 @@ Por fin después de meditar mucho compré el libro y le di una oportunidad, y no
 
 ## Cosas que me gustaron
 
-Para inc
+1. Un aspecto que me gustó demasiado fue la forma desenfadada de narrar las cosas. La filosofía es muy atemorizante para muchas personas, pero este libro logra trasladar los conceptos más importantes de tal manera que sean sencillos de comprender. Incluso los conceptos más abstractos relacionados a la metafísica son aterrizados con ejemplos de la vida real para que su estudio sea fácil. Sin duda este punto es vital para aprender filosofía, no es necesario complicar aún más las cosas.
 
+2. Otro aspecto que me gustó fue lo completo que es el libro. Abarca filosofía desde los presocráticos hasta la era moderna (hasta los 90's que fue cuando se escribió el libro). Gracias al podcast que mencioné arriba pude percatarme que no existe un salto temporal tan importante. Después de Sócrates, Platón y Aristóteles el libro también menciona a las escuelas helenísicas que surgieron como continuación de la filosofía de estos tres grandes personajes. Me gustó eso ya que a veces el contenido relacionado con la filosofía se salta esos dos mil años y llega hasta la edad media, pero este libro no, y se aprecia saber qué pasó en todo ese tiempo.
+
+3. La historia de Sofía y Alberto sin lugar a dudas le dio el toque que necesitaba el libro. El mezclar conceptos de la historia de la filosofía con la historia de Sofía y Alberto fue una genialidad ya que era más fácil aprender la teoría. El ir leyendo como Sofía iba superandos los retos que se le enfrentaban era algo impresionante. Personalmente, la línea narrativa de Sofía me emocionó mucho y hasta logré tomarle mucho cariño a ella. 
+
+4. El libro no es enteramente sobre filosofía. No esperaba que existiera un capítulo de importante longitud dedicado especialmente a Charles Darwin. Me sorprendió demasiado porque el autor abarca conceptos de física, química y biología, me pareció increíble esto ya que algo tan importante como la teoría de la evolución también se incorpora al libro de forma sencilla y bien explicada, y de alguna forma se considera filosofía.
+
+5. El contexto histórico en cada corriente de pensamiento filosófico se explica con detalle y ayuda a comprender las razones por las que surgieron las ideas en lugares específicos y no en otros. Noté esto especialemente en la Ilustración y el Romanticismo. Estudiar a los filósofos de esa época pero también saber su contexto histórico fue exagerdamente útil para comprender todo de forma más sencilla y rápida.
 
 ## Cosas que no me gustaron
 

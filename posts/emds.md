@@ -29,6 +29,12 @@ Por fin después de meditar mucho compré el libro y le di una oportunidad, y no
 
 ## Cosas que no me gustaron
 
+Esta lista es un poco más corta que la anterior, lo prometo.
+
+1. Considero que no se profundizó lo suficiente en algunas corrientes de pensamiento. Si mal no recuerdo creo que en las escuelas helenísticas el contenido era muy limitado a comparación con los filósofos que se mencionan después de la edad media. Me hubiera gustado saber más de esas escuelas. Noté lo mismo con Freud y con los filósofos de nuestra época, pienso que hacer un poco más extensa la explicación hubiera sido lo más apropiado.
+
+2. La historia de Sofía y Alberto por momentos era muy enredada jaja. Me perdí en algunas partes pero pienso que es normal dada la naturaleza de la historia y la forma en la que está estructurado el libro. Algunas cosas también me parecieron absurdas de esta historia, al final de cuentas se logra entender el propósito pero todo es confuso por momentos.
+
 ## El valor de esta obra en la época en la que vivimos
 
 

@@ -27,6 +27,9 @@ Por fin después de meditar mucho compré el libro y le di una oportunidad, y no
 
 5. El contexto histórico en cada corriente de pensamiento filosófico se explica con detalle y ayuda a comprender las razones por las que surgieron las ideas en lugares específicos y no en otros. Noté esto especialemente en la Ilustración y el Romanticismo. Estudiar a los filósofos de esa época pero también saber su contexto histórico fue exagerdamente útil para comprender todo de forma más sencilla y rápida.
 
+![Create routes via your file + folder structure](charles.jpeg)
+
+
 ## Cosas que no me gustaron
 
 Esta lista es un poco más corta que la anterior, lo prometo.
@@ -46,5 +49,6 @@ En la época turbulenta en la que vivimos, el cambio está a la orden del día. 
 
 Me gusta voltear hacia atrás y ver como todo en el mundo está cimentado en ideas de personas del pasado. Existe algo romántico y poético en que cada generación continua con el trabajo de nuestros antepasados. El mundo tiene una forma muy extraña de funcionar y me encanta.
 
+![Create routes via your file + folder structure](conejo.jpeg)
 
 

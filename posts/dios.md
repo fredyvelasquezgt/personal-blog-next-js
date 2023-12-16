@@ -21,3 +21,17 @@ Para las diversas culturas del mundo cada dios es el auténtico. Considero que a
 Surgirían muchas preguntas, algunas relacionadas con qué estuvo haciendo Dios todo este tiempo y las razones por las que salió hasta ahorita. Estoy seguro que una partida de filósofos pondrían aprueba a Dios sobre los temas más elementales de la vida. También estoy seguro que muchos lo buscarían solo para obtener un milagro de él, como si la creación no fuera suficiente milagro para la humanidad... somos unos malagradecidos. 
 
 Pienso que Dios se convertiría en una figura tan famosa a nivel social que lo comenzarían a invitar a pasar el tiempo con los famosos de la tierra. No sería raro ver una foto de Dios con Kanye West, o en los billboards, o en alguna protesta ideológica. Supongo que le tendríamos que explicar a Dios que su creación se pudrió y que el mundo que él planeó en el inicio ya no es el mismo.
+
+Como lo dije al inicio, estas solo son ideas, parte de una reflexión. Así que solo escribo los pensamientos que vienen. Considero que el hallazgo de Dios sería una bomba para todo el conocimiento humano. Las diversas teorías elaboradas para responder a las preguntas más fundamentales del universo se vendrían abajo. Surgiría una nueva ola de fanatismo religioso y también se debería de considerar el comportamiento que Dios tendría en el mundo.
+
+Aquí tengo algunas preguntas que no puedo responder, tal vez porque no soy tan inteligente como yo pienso o porque mi imaginación es demasiado limitada:
+
+1. ¿Dios dejaría que el mundo siguiera el curso que lleva actualmente?
+2. ¿Por qué hasta este momento decidió salir Dios?
+3. ¿Tendríamos que comenzar a construir el conocimiento humano desde cero?
+4. ¿Todo se basaría en las sagradas escrituras tal y como pasó en la edad media?
+5. ¿Cómo sería la rendición de cuentas por parte de las diversas iglesias cristianas?
+
+## Conclusion
+
+En fin, como ya lo dije dos veces, este artículo solo fue un delirio sobre el posible escenario que pasaría si un día Dios decidiera mostrarse al mundo. Existen un millón de consideraciones más que hay que tener en cuenta para este evento pero las dejaremos para cuando realmente suceda.

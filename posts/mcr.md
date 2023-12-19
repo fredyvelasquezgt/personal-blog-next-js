@@ -12,7 +12,11 @@ Poco a poco me he dado cuenta que la muerte es el destino último de nosotros. T
 
 Tengo algunas nociones que aún no son concretas pero quiero dejarlas por aquí. Tal vez en el futuro esas ideas logran madurar en mi cabeza y soy más capaz de transformarlas en algo más sólido, pero por el momento solo las mencionaremos.
 
-1. Me parece increíble que exista la posibilidad de dejar de vivir. Yo veo la vida en mi día a día y me parece loco que llegue el momento en el que todo esto termine, pero no solo para mí. Veo las plantas del jardín, las montañas que me rodean, los animales que me cruzo en la calle y me parece tan radical la idea que el perro que vi hoy ya no esté más físicamente frente a mi nunca más. No sé, pienso que mi mente limitada de humano no me permite pensar en algo tan poderoso y majestuoso como la muerte.
+1. Me parece increíble que exista la posibilidad de dejar de vivir. Yo veo la vida en mi día a día y me parece loco que llegue el momento en el que todo esto termine, pero no solo para mí. Veo las plantas del jardín, las montañas que me rodean, los animales que me cruzo en la calle y me parece tan radical la idea de que el perro que vi hoy ya no esté más físicamente frente a mi nunca más. No sé, pienso que mi mente limitada de humano no me permite pensar en algo tan poderoso y majestuoso como la muerte.
+
+2. No sé si todos reflexionamos sobre la muerte. Me da miedo preguntarle a mi mamá o a mis amigos sobre la muerte. Pienso que es un tema que les puede incomodar o asustar de alguna forma. Estamos tan metidos en nuestra rutina que pensar en ese tipo de cosas que no son "importantes" en la vida cotidiana pueden ser un poco tabú. Aún pienso en la forma correcta de formular preguntas relacionadas con este tema, no veo óptimo llegar con alguien y solo preguntarle "¿Qué pensás de la muerte?"
+
+3. Quisiera saber realmente qué pasa después de la muerte. No hablo de si existe el cielo o el infierno, si existe otra dimensión
 
 ## La muerte a lo largo de la humanidad
 

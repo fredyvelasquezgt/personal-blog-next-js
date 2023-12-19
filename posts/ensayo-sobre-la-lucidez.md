@@ -27,9 +27,21 @@ Bueno ahora sí, es momento de comenzar con lo bueno. No hay dudas sobre la geni
 
 - Como lo dije arriba, la conexión con "Ensayo sobre la ceguera" es algo increíble, sin embargo, creo que la historia principal se desvía en este punto. Saramago se enfocó demasiado en esta línea que se perdió el hilo de "Ensayo sobre la lucidez". La historia da un giro algo extraño, de buena calidad, pero que a mi parecer no tuvo que haber sido así. Esto provocó que el cierre de la historia no fuera de mi total agrado.
 
-- Este punto va ligado con el anterior.
+- Este punto va ligado con el anterior. El cierre es bastante inconcluso. No se logra explicar concretamente las razones que desencadenan la crisis política. Sé que esto tiene un motivo y es que el lector pueda reflexionar sobre el poder del voto, los deberes civiles y la democracia en general, pero solo por amor a la historia me hubiese gustado un cierre concreto.
+
+- Esto solo lo van a entender las personas que hayan leído las dos obras que he mencionado: NO PUEDE SER QUE SARAMAGO HAYA MATADO AL PERRO DE LAS LÁGRIMAS !! 
 
 ## Cómo se pudo haber mejorado
+
+- La solución es simple: Seguir con el hilo de la historia principal. José Saramago es experto en crear narrativas intensas así que hubiera estado genial incluir este elemento para dar un cierre memorable, así como se hizo en "El viaje del elefante" o "Las intermitencias de la muerte" 
+
+- Indagar un poco más en la crisis y no tanto en la investigación. Me hubiera gustado conocer más la opinión colectiva de la población de la ciudad en lugar de profundizar en lo que estaban haciendo los investigadores. 
+
+- Ampliar el papel del gobierno. Es evidente que tienen influencia, pero me hubiera gustado conocer más las interacciones de los gobernantes en esta situación. Tal vez involucrar a más sectores de la sociedad o hablar un poco del papel internacional.
+
+## Conclusion
+
+En fin, este libro es genial, pero se puede mejorar. Esta obra no cambia para nada mi opinión sobre Saramago. Es de mis escritores favoritos y cada vez que empiezo una de sus novelas sé que la voy a disfrutar al máximo y que voy a aprender cosas nuevas. Aún tengo muchos libros pendientes por leer de él pero vamos poco a poco. Obvio recomiendo esta obra, así que quien lea esto ojalá le pueda dar un ojo a "Ensayo sobre la lucidez" porque vale la pena totalmente.
 
 ![Create routes via your file + folder structure](saramago1.jpeg)
 

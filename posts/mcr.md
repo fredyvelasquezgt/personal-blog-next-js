@@ -16,11 +16,15 @@ Tengo algunas nociones que aún no son concretas pero quiero dejarlas por aquí.
 
 2. No sé si todos reflexionamos sobre la muerte. Me da miedo preguntarle a mi mamá o a mis amigos sobre la muerte. Pienso que es un tema que les puede incomodar o asustar de alguna forma. Estamos tan metidos en nuestra rutina que pensar en ese tipo de cosas que no son "importantes" en la vida cotidiana pueden ser un poco tabú. Aún pienso en la forma correcta de formular preguntas relacionadas con este tema, no veo óptimo llegar con alguien y solo preguntarle "¿Qué pensás de la muerte?"
 
-3. Quisiera saber realmente qué pasa después de la muerte. No hablo de si existe el cielo o el infierno, si existe otra dimensión
+3. Quisiera saber realmente qué pasa después de la muerte. No hablo de si existe el cielo o el infierno, si existe otra dimensión o algo así, hablo de qué pasa con nuestra mente. Yo lo veo así: Si cuando vivimos tenemos pensamientos, ideas, y en general consciencia, ¿pasará lo mismo cuando estamos muertos? ¿Se acaba todo con el último suspiro? ¿Algo inmaterial como las ideas solo tienen cabida cuando estamos vivos? Ese tipo de preguntas me hacen reflexionar mucho en lo poco que sé sobre algo tan elemental sobre la muerte. Supongo que con un poco de investigación podré tener algo de luz en el camino.
+
+4. Lo poco que se habla de la muerte. Pienso que debería de ser un tema fundamental para todos, al final del día, es algo que nos llega, de una u otra forma siempre acaba llegando. Como dijo José Saramago "Siempre acabamos llegando a donde nos esperan".
+
+5. ¿Quien puso a la muerte ahí? ¿Quién le dio tanto poder?
 
 ## La muerte a lo largo de la humanidad
 
-
+Muy bien, dicho lo anterior, he investigado un poco sobre cómo la humanidad ha afrontado la muerte desde los inicios de todo esto. 
 
 
 ![Create routes via your file + folder structure](argentina7.jpeg)

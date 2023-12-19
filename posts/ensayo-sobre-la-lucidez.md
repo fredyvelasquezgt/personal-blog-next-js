@@ -23,6 +23,12 @@ Sé que este post es para criticar "Ensayo sobre la lucidez", pero es obvio que 
 
 ## Cosas que no disfruté
 
+Bueno ahora sí, es momento de comenzar con lo bueno. No hay dudas sobre la genialidad de José Saramago. Obviamente solo soy un simple lector criticón. Después de todo José Saramago tiene un premio Nobel y yo no, así que por algo será eso. Sin embargo, desde mi humilde perspectiva de lector, creo que puedo mencionar un par de cosas que no me gustaron del todo, son las siguientes:
+
+- Como lo dije arriba, la conexión con "Ensayo sobre la ceguera" es algo increíble, sin embargo, creo que la historia principal se desvía en este punto. Saramago se enfocó demasiado en esta línea que se perdió el hilo de "Ensayo sobre la lucidez". La historia da un giro algo extraño, de buena calidad, pero que a mi parecer no tuvo que haber sido así. Esto provocó que el cierre de la historia no fuera de mi total agrado.
+
+- Este punto va ligado con el anterior.
+
 ## Cómo se pudo haber mejorado
 
 ![Create routes via your file + folder structure](saramago1.jpeg)

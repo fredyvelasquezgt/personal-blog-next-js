@@ -1,7 +1,7 @@
 ---
 title: My Chemical Romance, su Black Parade y la muerte.
 excerpt: En este post voy a discutir un poco mis ideas sobre la muerte, como la humanidad ha tratado este tema desde hace miles de años y la particular manera de la banda My Chemical Romance de hacer esto.
-image: mcr1.jpeg
+image: logo.png
 isFeatured: true
 date: '2023-09-04'
 ---

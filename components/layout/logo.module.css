@@ -1,13 +1,13 @@
 .logo {
-  text-transform: uppercase;
   font-size: var(--size-5);
   font-weight: bold;
-  font-family: 'Oswald', sans-serif;
-  color: var(--color-grey-50);
+  font-family: 'Source Code Pro', monospace;
+  color: var(--color-accent-blue);
+  letter-spacing: -0.5px;
 }
 
 @media (min-width: 768px) {
   .logo {
-    font-size: var(--size-8);
+    font-size: var(--size-6);
   }
 }

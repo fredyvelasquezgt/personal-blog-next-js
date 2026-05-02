@@ -1,0 +1,9 @@
+{
+  "buildCommand": "next build",
+  "devCommand": "next dev",
+  "installCommand": "npm ci",
+  "env": {
+    "NODE_OPTIONS": ""
+  },
+  "nodejs": "20.x"
+}

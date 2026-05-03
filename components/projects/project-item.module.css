@@ -24,7 +24,7 @@
 .imageWrapperMobile {
   position: relative;
   width: 100%;
-  aspect-ratio: 10 / 8;
+  aspect-ratio: 14 / 8;
   background-color: var(--color-surface-3);
 }
 

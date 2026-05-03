@@ -26,7 +26,7 @@ function ProjectHeader(props) {
               rel="noopener noreferrer"
               className={classes.actionLink}
             >
-              → Ver en GitHub
+              → View on Github
             </a>
           )}
           {demoUrl && (
@@ -36,7 +36,7 @@ function ProjectHeader(props) {
               rel="noopener noreferrer"
               className={classes.actionLinkPrimary}
             >
-              → Demo en vivo
+              → Live demo
             </a>
           )}
         </div>

@@ -21,6 +21,13 @@
   background-color: var(--color-surface-3);
 }
 
+.imageWrapperMobile {
+  position: relative;
+  width: 100%;
+  aspect-ratio: 10 / 9;
+  background-color: var(--color-surface-3);
+}
+
 .body {
   padding: var(--size-4);
   flex: 1;

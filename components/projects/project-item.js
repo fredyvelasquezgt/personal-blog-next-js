@@ -3,15 +3,16 @@ import Image from 'next/image';
 import classes from './project-item.module.css';
 
 function ProjectItem(props) {
-  const { title, description, image, tech, githubUrl, demoUrl, slug } = props.project;
+  const { title, description, image, tech, githubUrl, demoUrl, slug, isMobile } = props.project;
 
   const imagePath = `/images/projects/${slug}/${image}`;
   const linkPath = `/projects/${slug}`;
+  const imageWrapperClass = isMobile ? classes.imageWrapperMobile : classes.imageWrapper;
 
   return (
     <li className={classes.card}>
       <Link href={linkPath}>
-        <div className={classes.imageWrapper}>
+        <div className={imageWrapperClass}>
           <Image
             src={imagePath}
             alt={title}

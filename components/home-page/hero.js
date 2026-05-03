@@ -6,19 +6,18 @@ function Hero() {
   return (
     <section className={classes.hero}>
       <div className={classes.text}>
-        <p className={classes.greeting}>Hola, soy</p>
+        <p className={classes.greeting}>Hi, I am</p>
         <h1 className={classes.name}>Fredy Velasquez</h1>
-        <p className={classes.role}>Full Stack Developer</p>
+        <p className={classes.role}>Computer Science Engineer and Full-Stack Developer</p>
         <p className={classes.bio}>
-          Construyo aplicaciones web con React y Node.js. Me interesa el software
-          bien diseñado, el open source y escribir sobre tecnología.
-        </p>
-        <div className={classes.ctas}>
+        I build digital products and have a strong interest in technology, software development, and engineering. I’m also passionate about open source, writing, traveling, and sports.
+</p>        
+<div className={classes.ctas}>
           <Link href="/projects" className={classes.ctaPrimary}>
-            Ver proyectos
+            Explore projects
           </Link>
           <Link href="/posts" className={classes.ctaSecondary}>
-            Leer blog
+            Read blog
           </Link>
         </div>
       </div>

@@ -29,11 +29,11 @@ function MainNavigation() {
               Blog
             </Link>
           </li>
-          {/* <li>
+          <li>
             <Link href="/contact" className={isActive('/contact')}>
               Contact
             </Link>
-          </li> */}
+          </li>
         </ul>
       </nav>
     </header>

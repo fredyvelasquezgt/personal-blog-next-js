@@ -1,6 +1,7 @@
 import { Fragment } from 'react';
 import Head from 'next/head';
 import Hero from '../components/home-page/hero';
+import ExperienceCarousel from '../components/home-page/experience-carousel';
 import FeaturedProjects from '../components/home-page/featured-projects';
 import FeaturedPosts from '../components/home-page/featured-posts';
 import { getFeaturedPOsts } from '../lib/posts-util';
@@ -17,6 +18,7 @@ function HomePage(props) {
         />
       </Head>
       <Hero />
+      <ExperienceCarousel />
       <FeaturedProjects projects={props.projects} />
       <FeaturedPosts posts={props.posts} />
     </Fragment>

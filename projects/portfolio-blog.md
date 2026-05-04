@@ -1,7 +1,7 @@
 ---
 title: 'Portfolio + Personal Blog'
 description: 'Personal website built with Next.js. Includes a blog with Markdown support and syntax highlighting, automatic deployment via GitHub Actions, deployed on Vercel. Redesigned with Claude Code.'
-image: 'screenshot.svg'
+image: 'screenshot1.png'
 tech: ['Next.js 13', 'React 18', 'CSS Modules', 'Markdown', 'GitHub Actions']
 githubUrl: 'https://github.com/fredyvelasquezgt/personal-blog-next-js'
 demoUrl: 'https://personal-blog-next-js-eight.vercel.app/'

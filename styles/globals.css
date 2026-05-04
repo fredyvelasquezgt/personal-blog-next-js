@@ -43,6 +43,18 @@ body {
   --color-tech-bg: hsl(210, 70%, 15%);
   --color-tech-text: hsl(210, 80%, 70%);
 
+  /* Blog soft blue colors */
+  --color-sky-50: #f0f7fb;
+  --color-sky-100: #e0f0f8;
+  --color-sky-200: #c9e0eb;
+  --color-sky-300: #a8d1e8;
+  --color-sky-400: #99c9e3;
+  --color-sky-500: #7eb8d4;
+  --color-sky-600: #6db0cc;
+  --color-sky-700: #5a9cb8;
+  --color-sky-800: #3d7a96;
+  --color-sky-900: #2f6580;
+
   --size-1: 0.25rem;
   --size-2: 0.5rem;
   --size-3: 0.75rem;

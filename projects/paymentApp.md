@@ -35,8 +35,6 @@ The platform enables users to authenticate securely, capture AR camera views, pr
 
 ## Tech Stack
 
-## Tech Stack
-
 ### Frontend
 - **Mobile Framework**: React Native 0.76+ with Expo 52.0+
 - **Routing**: Expo Router (file-based routing)

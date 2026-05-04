@@ -4,7 +4,7 @@ description: 'Personal website built with Next.js. Includes a blog with Markdown
 image: 'screenshot1.png'
 tech: ['Next.js 13', 'React 18', 'CSS Modules', 'Markdown', 'GitHub Actions']
 githubUrl: 'https://github.com/fredyvelasquezgt/personal-blog-next-js'
-demoUrl: 'https://personal-blog-next-js-eight.vercel.app/'
+demoUrl: 'https://youtube.com/shorts/BYuKFgLPzYE'
 isFeatured: true
 date: '2024-01-15'
 ---

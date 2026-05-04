@@ -4,7 +4,7 @@ description: 'Full-stack AR-powered payment application built with React Native,
 image: 'paymentApp1.png'
 tech: ['React Native','Expo','Express JS','Node JS','Firebase','Mongo DB','Axios','Viro JS', 'PostgreSQL', 'Cypress']
 githubUrl: 'https://github.com/fredyvelasquezgt/my-payment-app'
-demoUrl: 'https://react-mern-backend-production-31e9.up.railway.app/auth/login'
+demoUrl: 'https://personal-blog-next-js-eight.vercel.app/'
 isFeatured: true
 isMobile: true                                            
 date: '2024-01-15'
